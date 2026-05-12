@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jail-khanar-chithi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Jail khanar chithi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jail-khanar-chithi/) |
+| **Get License** | [Get a Licensing Quote for Jail khanar chithi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jail-khanar-chithi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> শীতল ঘরের বদ্ধ দেয়াল, বুকের ভেতর উষ্ণ ছোঁয়া
+> তোমার ঠোঁটের মিষ্টি নেশায়, উড়ছে শুধু মাতাল ধোঁয়া
+> অন্ধকারের এই নিস্তব্ধতায়, খুঁজছি আমি তোমার ঘ্রাণ
+> এসো কাছে আরো কাছে, জুড়িয়ে দাও অবুঝ প্রাণ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
