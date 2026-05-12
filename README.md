@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jail-khanar-chithi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Jail khanar chithi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jail-khanar-chithi/) |
+| **Get License** | [License this song: Jail khanar chithi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jail-khanar-chithi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `edead3c14d83bf6a63a520f389c4e3ead11ada6ac2f320ef5ec44479821d2188` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

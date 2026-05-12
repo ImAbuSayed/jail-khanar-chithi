@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Jail khanar chithi
+
+This log tracks the cryptographic history and versioning for the song **Jail khanar chithi** (jail-khanar-chithi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T07:06:30.024338 | `v1` | `edead3c14d83bf6a63a520f389c4e3ead11ada6ac2f320ef5ec44479821d2188` | `16347002eb14a7fa42724d6caf5f626c8e4c093a77c42806e467c148ec99d1ee` | `2026-05-12_jail-khanar-chithi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
